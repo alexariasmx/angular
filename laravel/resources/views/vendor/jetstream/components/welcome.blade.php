@@ -1,0 +1,1 @@
+@livewire('galeria.galeria-livewire')
